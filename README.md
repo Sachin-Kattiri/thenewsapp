@@ -35,8 +35,3 @@ This is a **News App** built using Android Studio. The app displays the latest n
 - Android Studio (Arctic Fox)
 - News API Key from [https://newsapi.org](https://newsapi.org)
 
-### 📥 Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/NewsApp.git
